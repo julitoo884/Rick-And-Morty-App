@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1650622167483" clover="3.2.0">
+  <project timestamp="1650622167484" name="All files">
+    <metrics statements="121" coveredstatements="107" conditionals="104" coveredconditionals="71" methods="46" coveredmethods="41" elements="271" coveredelements="219" complexity="0" loc="121" ncloc="121" packages="38" files="46" classes="46"/>
+    <package name="src">
+      <metrics statements="19" coveredstatements="8" conditionals="4" coveredconditionals="0" methods="4" coveredmethods="2"/>
+      <file name="App.js" path="C:\TRABAJO\rickandmortyapp\src\App.js">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="61" count="1" type="stmt"/>
+      </file>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\index.js">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+      </file>
+      <file name="reportWebVitals.js" path="C:\TRABAJO\rickandmortyapp\src\reportWebVitals.js">
+        <metrics statements="8" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.client">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\client\index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.card">
+      <metrics statements="2" coveredstatements="2" conditionals="18" coveredconditionals="9" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\card\index.js">
+        <metrics statements="2" coveredstatements="2" conditionals="18" coveredconditionals="9" methods="1" coveredmethods="1"/>
+        <line num="13" count="10" type="cond" truecount="1" falsecount="1"/>
+        <line num="15" count="10" type="cond" truecount="1" falsecount="1"/>
+      </file>
+    </package>
+    <package name="src.components.card.infocontent">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\card\infocontent\index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.card.styledcard">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\card\styledcard\index.js">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="11" count="11" type="cond" truecount="2" falsecount="0"/>
+      </file>
+    </package>
+    <package name="src.components.card.styledimg">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\card\styledimg\index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.card.textcontent">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\card\textcontent\index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.card.title">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\card\title\index.js">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="10" type="cond" truecount="2" falsecount="0"/>
+      </file>
+    </package>
+    <package name="src.components.containercards">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\containercards\index.js">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="cond" truecount="1" falsecount="1"/>
+      </file>
+    </package>
+    <package name="src.components.contentnotfound">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\contentnotfound\index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.error">
+      <metrics statements="1" coveredstatements="1" conditionals="6" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\error\index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="6" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="9" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.header">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\header\index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="17" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.header.colorpick">
+      <metrics statements="11" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="8" coveredmethods="5"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\header\colorpick\index.js">
+        <metrics statements="11" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="8" coveredmethods="5"/>
+        <line num="14" count="7" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+        <line num="18" count="7" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="33" count="3" type="stmt"/>
+        <line num="34" count="6" type="stmt"/>
+        <line num="39" count="3" type="stmt"/>
+        <line num="40" count="6" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.header.colorpick.button">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\header\colorpick\button\index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.header.colorpick.container">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\header\colorpick\container\index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.header.colorpick.containerColor">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\header\colorpick\containerColor\index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.header.img">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\header\img\index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.header.link">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\header\link\index.js">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="9" count="4" type="cond" truecount="2" falsecount="0"/>
+      </file>
+    </package>
+    <package name="src.components.header.linkslist">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\header\linkslist\index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.header.nav">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\header\nav\index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.horizontalcard">
+      <metrics statements="2" coveredstatements="2" conditionals="24" coveredconditionals="13" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\horizontalcard\index.js">
+        <metrics statements="2" coveredstatements="2" conditionals="24" coveredconditionals="13" methods="1" coveredmethods="1"/>
+        <line num="12" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="14" count="5" type="cond" truecount="1" falsecount="1"/>
+      </file>
+    </package>
+    <package name="src.components.horizontalcard.circlespan">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\horizontalcard\circlespan\index.js">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="6" count="15" type="cond" truecount="1" falsecount="1"/>
+      </file>
+    </package>
+    <package name="src.components.horizontalcard.img">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\horizontalcard\img\index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.horizontalcard.personalinfo">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\horizontalcard\personalinfo\index.js">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="5" type="cond" truecount="2" falsecount="0"/>
+      </file>
+    </package>
+    <package name="src.components.horizontalcard.styledhorizontalcard">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\horizontalcard\styledhorizontalcard\index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.invalidproperties">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\invalidproperties\index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.loading">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\loading\index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="9" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.maintitlesection">
+      <metrics statements="1" coveredstatements="1" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\maintitlesection\index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="6" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.maintitlesection.maintitlecontent">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\maintitlesection\maintitlecontent\index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.styledtext">
+      <metrics statements="6" coveredstatements="6" conditionals="10" coveredconditionals="9" methods="5" coveredmethods="5"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\styledtext\index.js">
+        <metrics statements="6" coveredstatements="6" conditionals="10" coveredconditionals="9" methods="5" coveredmethods="5"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="48" type="cond" truecount="1" falsecount="1"/>
+        <line num="6" count="48" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="48" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="48" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="48" type="cond" truecount="2" falsecount="0"/>
+      </file>
+    </package>
+    <package name="src.components.title">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\components\title\index.js">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="6" type="cond" truecount="1" falsecount="1"/>
+      </file>
+    </package>
+    <package name="src.graphql">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="individualdata.graphql.js" path="C:\TRABAJO\rickandmortyapp\src\graphql\individualdata.graphql.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+      <file name="initialData.graphql.js" path="C:\TRABAJO\rickandmortyapp\src\graphql\initialData.graphql.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.layouts.default">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\layouts\default\index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.redux.actions">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="changecolor.js" path="C:\TRABAJO\rickandmortyapp\src\redux\actions\changecolor.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="changelenghtcharacters.js" path="C:\TRABAJO\rickandmortyapp\src\redux\actions\changelenghtcharacters.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+      </file>
+      <file name="charactersInitiallength.js" path="C:\TRABAJO\rickandmortyapp\src\redux\actions\charactersInitiallength.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="colorInitialLoad.js" path="C:\TRABAJO\rickandmortyapp\src\redux\actions\colorInitialLoad.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.redux.reducers">
+      <metrics statements="15" coveredstatements="15" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+      <file name="characters.js" path="C:\TRABAJO\rickandmortyapp\src\redux\reducers\characters.js">
+        <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="7" count="5" type="cond" truecount="1" falsecount="0"/>
+        <line num="8" count="21" type="cond" truecount="3" falsecount="0"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="15" type="stmt"/>
+      </file>
+      <file name="color.js" path="C:\TRABAJO\rickandmortyapp\src\redux\reducers\color.js">
+        <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="7" count="5" type="cond" truecount="1" falsecount="0"/>
+        <line num="8" count="21" type="cond" truecount="3" falsecount="0"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="19" type="stmt"/>
+      </file>
+      <file name="root-reducer.js" path="C:\TRABAJO\rickandmortyapp\src\redux\reducers\root-reducer.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="22" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.redux.types">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="types.js" path="C:\TRABAJO\rickandmortyapp\src\redux\types\types.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.screens.character">
+      <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\screens\character\index.js">
+        <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="24" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="36" count="4" type="cond" truecount="2" falsecount="0"/>
+      </file>
+    </package>
+    <package name="src.screens.home">
+      <metrics statements="16" coveredstatements="16" conditionals="8" coveredconditionals="8" methods="7" coveredmethods="7"/>
+      <file name="index.js" path="C:\TRABAJO\rickandmortyapp\src\screens\home\index.js">
+        <metrics statements="16" coveredstatements="16" conditionals="8" coveredconditionals="8" methods="7" coveredmethods="7"/>
+        <line num="17" count="12" type="stmt"/>
+        <line num="18" count="8" type="stmt"/>
+        <line num="20" count="8" type="stmt"/>
+        <line num="21" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="28" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="39" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="55" count="2" type="stmt"/>
+        <line num="56" count="8" type="stmt"/>
+        <line num="61" count="2" type="stmt"/>
+        <line num="62" count="4" type="stmt"/>
+        <line num="63" count="4" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
